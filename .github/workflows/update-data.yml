@@ -1,0 +1,35 @@
+name: Update data (Bing + news)
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch Bing image archive
+        run: node scripts/fetch-bing.mjs bing.json || echo "bing fetch failed, keeping previous file"
+      - name: Fetch news feeds
+        run: node scripts/fetch-news.mjs news.json || echo "news fetch failed, keeping previous file"
+      - name: Commit if changed
+        run: |
+          git add bing.json news.json
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898613+github-actions[bot]@users.noreply.github.com"
+          git commit -m "data: update bing.json/news.json"
+          git push
