@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-13T15:39:25.838Z",
+ "updated": "2026-11-14T08:19:26.306Z",
  "images": [
+  {
+   "date": "2026-11-14",
+   "title": "The only way is up",
+   "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+   "urlbase": "/th?id=OHR.BlueHK_EN-US7870996687",
+   "link": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0800%22"
+  },
   {
    "date": "2026-11-13",
    "title": "Hidden depths",
@@ -203,13 +210,6 @@
    "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
    "urlbase": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
    "link": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261016_0700%22"
-  },
-  {
-   "date": "2026-10-15",
-   "title": "Bridges, rooftops, and twilight",
-   "copyright": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
-   "urlbase": "/th?id=OHR.WroclawPoland_EN-US7757698922",
-   "link": "https://www.bing.com/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0700%22"
   }
  ]
 }
