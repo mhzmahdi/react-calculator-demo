@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-14T08:19:26.306Z",
+ "updated": "2026-11-15T10:58:18.833Z",
  "images": [
+  {
+   "date": "2026-11-15",
+   "title": "Frosty foliage",
+   "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)",
+   "urlbase": "/th?id=OHR.FirstFrost_EN-US8881008245",
+   "link": "https://www.bing.com/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261115_0800%22"
+  },
   {
    "date": "2026-11-14",
    "title": "The only way is up",
@@ -203,13 +210,6 @@
    "copyright": "Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)",
    "urlbase": "/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151",
    "link": "https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22"
-  },
-  {
-   "date": "2026-10-16",
-   "title": "'Peak' into Colorado",
-   "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
-   "urlbase": "/th?id=OHR.SneffelsAutumn_EN-US3953128777",
-   "link": "https://www.bing.com/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261016_0700%22"
   }
  ]
 }
