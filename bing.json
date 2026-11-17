@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T09:47:59.264Z",
+ "updated": "2026-11-17T11:21:12.179Z",
  "images": [
+  {
+   "date": "2026-11-17",
+   "title": "Step into the great outdoors",
+   "copyright": "Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)",
+   "urlbase": "/th?id=OHR.TrailCedars_EN-US2240500417",
+   "link": "https://www.bing.com/search?q=Take+a+Hike+Day&form=hpcapt&filters=HpDate%3a%2220261117_0800%22"
+  },
   {
    "date": "2026-11-16",
    "title": "Built to last",
@@ -203,13 +210,6 @@
    "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
    "urlbase": "/th?id=OHR.VeniceSunrise_EN-US6714393168",
    "link": "https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22"
-  },
-  {
-   "date": "2026-10-18",
-   "title": "75 and thriving",
-   "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
-   "urlbase": "/th?id=OHR.DolbadarnWales_EN-US6620614213",
-   "link": "https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0700%22"
   }
  ]
 }
