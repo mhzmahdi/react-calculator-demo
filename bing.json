@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-24T10:57:53.794Z",
+ "updated": "2026-11-25T13:57:41.368Z",
  "images": [
+  {
+   "date": "2026-11-25",
+   "title": "A southwestern snowfall",
+   "copyright": "Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)",
+   "urlbase": "/th?id=OHR.SunsetPoint_EN-US0827880440",
+   "link": "https://www.bing.com/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261125_0800%22"
+  },
   {
    "date": "2026-11-24",
    "title": "Autumnal camouflage",
@@ -203,13 +210,6 @@
    "copyright": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
    "urlbase": "/th?id=OHR.PondCypress_EN-US0123444779",
    "link": "https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22"
-  },
-  {
-   "date": "2026-10-26",
-   "title": "Hanging in there",
-   "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
-   "urlbase": "/th?id=OHR.HangingBat_EN-US7714746725",
-   "link": "https://www.bing.com/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22"
   }
  ]
 }
